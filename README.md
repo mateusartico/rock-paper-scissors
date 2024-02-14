@@ -19,6 +19,6 @@ Contributions to this project are welcome! Whether it's optimizing the game logi
 This project is designed for entertainment purposes only. While Rock Paper Scissors is a simple and fun game, remember that the outcome is determined randomly. Please enjoy the game responsibly.
 
 ## License
-This project is licensed under the [MIT License](), allowing for open collaboration and distribution.
+This project is licensed under the [MIT License](https://github.com/mateusartico/rock-paper-scissors/blob/main/LICENSE), allowing for open collaboration and distribution.
 
 Ready to challenge the computer to a game of Rock Paper Scissors? Clone the repository and start playing now!
